@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configs>
+  <base_dados>
+    <server>SERVER</server>
+    <bd>DATABASE</bd>
+    <user>USER</user>
+    <pass>PASSWORD</pass>
+    <trusted_conection>false</trusted_conection>
+  </base_dados>
+  <ui>
+    <start_maximized>false</start_maximized>
+  </ui>
+</configs>
